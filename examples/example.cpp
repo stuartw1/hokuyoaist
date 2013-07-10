@@ -32,6 +32,7 @@
 #include <iostream>
 #include <math.h>
 #include <stdio.h>
+#include <unistd.h>    /* for getopt */
 
 
 int main(int argc, char **argv)
